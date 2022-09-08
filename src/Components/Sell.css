@@ -1,0 +1,27 @@
+#sell {
+    min-height: 556px;
+    border: 1px solid;
+    background-color: #00111b;
+    /* background-image: url(/src/images/mint.jfif);
+    background-size: 100% 100%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #innerSell{
+    height: 200px;
+    border: 1px solid;
+    /* background-color: #00111b; */
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  #se1 {
+    height: 80px;
+    /* border: 1px solid; */
+  }
+
+  

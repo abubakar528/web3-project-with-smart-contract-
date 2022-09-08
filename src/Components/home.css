@@ -1,0 +1,39 @@
+#home{
+    min-height: 557px;
+    max-height: auto;
+    /* border: 1px solid; */
+    background-color: black;
+    background-image: url(/src/images/block2.webp);
+    background-size: 100% 100%;
+}
+#homeLeft{
+    height: 100%;
+    /* border: 1px solid; */
+    background-color: #00111B;
+    /* background-image: url(/src/images/home.webp);
+    background-size: 100% 100%; */
+
+    float: left;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    font-size: 20px;
+}
+#inLeft{
+    min-height: 70%;
+    max-height: auto;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#homeRight{
+    height: 100%;
+    /* border: 1px solid; */
+    background-image: url(/src/images/block2.webp);
+    background-size: 100% 100%;
+    float: left;
+}
